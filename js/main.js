@@ -124,7 +124,7 @@ const white_list = [
 
 ];
 
-let link_data = data;
+let link_data = dataNine;
 
 // random a int from [minNum, maxNum]
 function randomNum(minNum, maxNum) {
