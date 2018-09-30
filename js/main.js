@@ -122,7 +122,7 @@ const group_5 = [
   "贾皓",
   "史睿思",
   "孙熠晖",
-  "李可飞",
+  "李海涛",
   "赵心嫣",
   "杨薪煜",
   "武宇凡",
@@ -135,13 +135,6 @@ const groups = [data, group_1, group_2, group_3, group_4, group_5];
 
 // 永远不会被抽到名字
 const white_list = [
-  "杨泽宇",
-  "赵阳阳",
-  "赵继鑫",
-  "李靖",
-  "王雯佳",
-  "连浩毅",
-  "许鑫苑"
 ];
 
 let link_data = data;
