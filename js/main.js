@@ -61,7 +61,7 @@ const data = [
   "周博涛"
 ];
 
-const groups = [data];
+const groups = data;
 
 // 永远不会被抽到名字
 const white_list = [
